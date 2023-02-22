@@ -22,12 +22,12 @@ Simple UI for booking movies.
 
 <img alt="GIF" src="preview/demo_1.gif" width= "300" /> 
 
+### Design by Burak Karakaya: 
+https://dribbble.com/shots/7997364-Movie-Ticket
 
+### The design has been done with the help
+https://www.youtube.com/watch?v=41jPxM8uUUw
 <br>
-
-## 🔑 License
-
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
 ## 🧑 Author
 
