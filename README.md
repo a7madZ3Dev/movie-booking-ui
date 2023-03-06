@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=41jPxM8uUUw
 ## 🧑 Author
 
 #### Ahmad Alzoabi
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmad-alzoabi-0623a8233/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ahmad-al-zoabi-0623a8233/)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
